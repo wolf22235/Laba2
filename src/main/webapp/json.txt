@@ -1,0 +1,15 @@
+{"Bands" : [
+  {
+    "Game": "Counter-Strike: Global Offensive",
+    "Developers": "Valve, Hidden Path Entertainment",
+    "Year_of_release": "2012",
+    "Metacritic": "83 of 100",
+    "Genre": "First Person Shooter"
+  },
+  {
+    "Game": "Grand Theft Auto V",
+    "Developers": "Rockstar Games",
+    "Year_of_release": "2013",
+    "Metacritic": "91 of 100",
+    "Genre": "Action-adventure"
+  },{"Game": "Overwatch 2","Developers": "Blizzard Entertainment","Year_of_release": "2022","Metacritic": "80 of 100","Genre": "First Person Shooter"}]}
